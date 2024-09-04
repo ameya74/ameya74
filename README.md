@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Ameya Hatangadi
 ===========================================================================================================================================
-<h3 align="left"><img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&lines=Backend+%26+Blockchain+Developer"></h3>
+<h3 align="left"><img src="https://readme-typing-svg.herokuapp.com/?center=false&vCenter=true&lines=Backend+%26+Blockchain+Developer"></h3>
 
 * 🌍  I'm based in Mumbai, India
 * ✉️  You can contact me at [ameyahatangadi4@gmail.com](mailto:ameyahatangadi4@gmail.com)
